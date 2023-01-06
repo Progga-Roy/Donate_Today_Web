@@ -50,7 +50,7 @@
 
 /* ...................Header style end................ */
 
-
+/* ...................Donate amount start.............. */
 .donate-today {
     margin-top: 130px;
     text-align: center;
@@ -101,16 +101,86 @@
 
 
 }
-.extra-amount{
+
+.extra-amount {
     color: #B3B3B3;
     font-size: 18px;
     text-align: center;
     margin-top: 60px;
-   
+
 }
-.hr-line{
-    margin-top: 9px ;
+
+.hr-line {
+    margin-top: 9px;
     margin-left: 355px;
     width: 765px;
-    background-color: #DADADA;;
+    background-color: #DADADA;
+    ;
+}
+
+/* ...................Donate amount end.............. */
+
+.donate-plan-title {
+    margin-top: 130px;
+    font-size: 45px;
+    text-align: center;
+    color: #121212;
+}
+
+.plan-description {
+    color: #707070;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.donation-category {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 157px;
+}
+
+.category1 {
+    width: 360px;
+    height: 352px;
+    background: #4F9DA61A;
+    border-radius: 5px;
+}
+
+.category2 {
+    width: 360px;
+    height: 352px;
+    background: #FF59591A;
+    border-radius: 5px;
+}
+
+.category3 {
+    width: 360px;
+    height: 352px;
+    background: #FFF4D6;
+    border-radius: 5px;
+}
+
+.donation-category img {
+    padding: 63px 23px;
+}
+
+.title-for-category {
+    margin-top: -33px;
+    margin-left: 23px;
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+
+
+}
+
+.description {
+    width: 315px;
+    height: 101px;
+    margin-top: 16px;
+    margin-left: 23px;
+    line-height: 24px;
+    color: #707070;
 }
