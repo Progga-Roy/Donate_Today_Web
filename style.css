@@ -3,6 +3,7 @@
     font-family: 'Inter', sans-serif;
 }
 
+/* ...................Header style start................ */
 .header {
     background-image: url(./Images/donation2.jpg);
     background-position: center;
@@ -39,9 +40,77 @@
     border-radius: 5px;
     font-size: 20px;
     margin: 0 auto;
-    
+
 }
-.btn{
+
+.btn {
     text-align: center;
     margin-top: 30px;
+}
+
+/* ...................Header style end................ */
+
+
+.donate-today {
+    margin-top: 130px;
+    text-align: center;
+}
+
+.donate-title {
+    font-size: 45px;
+    color: #121212;
+}
+
+.donate-description {
+    color: #707070;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+.donate-amounts {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 338px;
+}
+
+.amount {
+    width: 135px;
+    height: 123px;
+    background: #FAFAFA;
+    font-size: 30px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    color: #707070;
+
+}
+
+.tk {
+    padding: 43px 24px;
+
+}
+
+.amount-active {
+    width: 135px;
+    height: 123px;
+    background: #FFEEEE;
+    font-size: 30px;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FF5959;
+
+
+}
+.extra-amount{
+    color: #B3B3B3;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 60px;
+   
+}
+.hr-line{
+    margin-top: 9px ;
+    margin-left: 355px;
+    width: 765px;
+    background-color: #DADADA;;
 }
