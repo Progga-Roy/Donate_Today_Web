@@ -120,6 +120,8 @@
 
 /* ...................Donate amount end.............. */
 
+/* ...................Donate Plan start.............. */
+
 .donate-plan-title {
     margin-top: 130px;
     font-size: 45px;
@@ -185,30 +187,37 @@
     color: #707070;
 }
 
-.services{
+/* ...................Donate plan end.............. */
+
+
+/* ...................Donate service start.............. */
+.services {
     display: flex;
     justify-content: space-around;
     padding: 130px 157px;
 }
-.all-text{
+
+.all-text {
     width: 493px;
     height: 374px;
 }
-.service-title{
+
+.service-title {
     margin-top: 50px;
-font-weight: 700;
-font-size: 45px;
-color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
 }
 
-.service-description{
+.service-description {
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
     color: #707070;
     margin-top: 20px;
 }
-.contribute-btn{
+
+.contribute-btn {
     padding: 16px 12px;
     color: #FFFFFF;
     border: 0;
@@ -218,77 +227,95 @@ color: #121212;
     margin: 0 auto;
     margin-top: 20px;
 }
-.img img{
+
+.img img {
     width: 450px;
-height: 474px;
-margin-right: 104px;
-border-radius: 5px;
+    height: 474px;
+    margin-right: 104px;
+    border-radius: 5px;
 }
-.services-2{
+
+.services-2 {
     display: flex;
     justify-content: space-around;
     padding: 80px 157px;
     margin-top: -20px;
 }
-.all-text-2{
+
+.all-text-2 {
     width: 493px;
     height: 374px;
-   margin-left: -110px;
+    margin-left: -110px;
 }
 
-.update-section{
+/* ...................Donate service end.............. */
+
+/* ...................Update part start.............. */
+
+.update-section {
     margin-top: 130px;
 }
 
-.contact{
+.contact {
     margin: 50px 316px;
-     background: #FFF4D6; 
-     width: 809px;
-    height: 200px; 
-   
+    background: #FFF4D6;
+    width: 809px;
+    height: 200px;
+
 
 }
-.input{
+
+.input {
     padding: 76px 189px;
 }
-input{
-    width: 275px;
-height: 48px;
-border: 0;
-background: #D9D9D9;
-border-radius: 5px 0px 0px 5px;
-}
- .btn-primary1{
 
-   padding: 15px 12px;
+input {
+    width: 275px;
+    height: 48px;
+    border: 0;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.btn-primary1 {
+
+    padding: 15px 12px;
     color: #FFFFFF;
     border: 0;
     background: #FF5959;
     border-radius: 5px;
     font-size: 16px;
-   margin-left: -4.5px;
-   border-radius: 0px 5px 5px 0px;
-   
-} 
+    margin-left: -4.5px;
+    border-radius: 0px 5px 5px 0px;
 
-footer{
+}
+
+/* ...................Update part start.............. */
+
+/* ...................Footer  start.............. */
+
+footer {
     margin-top: 130px;
     background: #0B0D17;
     height: 177px;
 }
-.footer-title{
- padding: 43px 653px;
+
+.footer-title {
+    padding: 43px 653px;
     font-family: 'Lobster', cursive;
     font-weight: 36px;
     color: #FF5959;
-   text-align: center;
+    text-align: center;
 }
-.footer-des{
+
+.footer-des {
     margin-top: -14px;
     font-weight: 400;
     font-size: 14px;
-margin-bottom: 20px;
-font-feature-settings: 'liga' off;
-color: #D9DBE1;
-text-align: center;
+    margin-bottom: 20px;
+    font-feature-settings: 'liga' off;
+    color: #D9DBE1;
+    text-align: center;
 }
+
+/* ...................Footer part end............. */
